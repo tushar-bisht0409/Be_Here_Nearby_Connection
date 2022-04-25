@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/flash/behere_offline/build/permission_handler_android/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/flash/.gradle/caches/transforms-2/files-2.1/c1ebda589683e9beaa06b540aac78854/core-1.6.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/flash/behere_offline/build/permission_handler_android/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/flash/.gradle/caches/transforms-2/files-2.1/c1ebda589683e9beaa06b540aac78854/core-1.6.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/flash/behere_offline/build/permission_handler_android/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/flash/.gradle/caches/transforms-2/files-2.1/c1ebda589683e9beaa06b540aac78854/core-1.6.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/flash/behere_offline/build/permission_handler_android/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/flash/.gradle/caches/transforms-2/files-2.1/c1ebda589683e9beaa06b540aac78854/core-1.6.0/res/drawable/notification_bg_low.xml"
+    }
+]

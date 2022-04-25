@@ -1,0 +1,12 @@
+[
+    {
+        "instituteCode": "NSUT",
+        "subjectID": "1",
+        "subjectName": "DSA",
+        "teacherIDs": ["t1"],
+        "studentLists": ["tbjee2019@gmail.com","tusharbish2000@gmail.com","tushar.ec19@nsut.ac.in"],
+        "sections": ["1"],
+        "branches": ["ECE"],
+        "batches": ["2019-23"]
+    }
+]

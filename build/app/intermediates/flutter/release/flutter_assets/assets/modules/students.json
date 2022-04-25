@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Manish Singh",
+        "email": "tbjee2019@gmail.com",
+        "batch": "2020-24",
+        "branch": "Mechanical Engineering",
+        "specialization": "",
+        "section": "1",
+        "rollno": "2020UME"
+    },
+    {
+        "name": "Aayush Aggarwal",
+        "email": "tusharbish2000@gmail.com",
+        "batch": "2019-23",
+        "branch": "Electrical Engineering",
+        "specialization": "",
+        "section": "2",
+        "rollno": "2019UEE"
+    },
+    {
+        "name": "Tushar Bisht",
+        "email": "tushar.ec19@nsut.ac.in",
+        "batch": "2019-23",
+        "branch": "Electronics And Communication Engineering",
+        "specialization": "",
+        "section": "2",
+        "rollno": "2019UEC2578"
+    }
+]

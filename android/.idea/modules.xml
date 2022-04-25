@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1211806425/android.device_info_plus.iml" filepath="$PROJECT_DIR$/.idea/modules/1211806425/android.device_info_plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1185064181/android.flutter_nearby_connections.iml" filepath="$PROJECT_DIR$/.idea/modules/-1185064181/android.flutter_nearby_connections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-170792688/android.shared_preferences_android.iml" filepath="$PROJECT_DIR$/.idea/modules/-170792688/android.shared_preferences_android.iml" />
+    </modules>
+  </component>
+</project>

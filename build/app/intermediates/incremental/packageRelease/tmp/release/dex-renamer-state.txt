@@ -1,0 +1,4 @@
+#Tue Apr 05 22:39:38 IST 2022
+base.0=/Users/flash/behere_offline/build/app/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

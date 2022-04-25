@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/flash/behere_offline/build/flutter_nearby_connections/intermediates/res/merged/release/drawable-mdpi-v4/googleg_disabled_color_18.png",
+        "source": "/Users/flash/.gradle/caches/transforms-2/files-2.1/56144d06c8a41e33c5f1d637bfecd83a/jetified-play-services-base-17.3.0/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/flash/behere_offline/build/flutter_nearby_connections/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/Users/flash/.gradle/caches/transforms-2/files-2.1/56144d06c8a41e33c5f1d637bfecd83a/jetified-play-services-base-17.3.0/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/flash/behere_offline/build/flutter_nearby_connections/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/flash/.gradle/caches/transforms-2/files-2.1/714722dd888488a29b21e4465bad7c63/core-1.9.0-alpha02/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/flash/behere_offline/build/flutter_nearby_connections/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/Users/flash/.gradle/caches/transforms-2/files-2.1/56144d06c8a41e33c5f1d637bfecd83a/jetified-play-services-base-17.3.0/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/flash/behere_offline/build/flutter_nearby_connections/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/flash/.gradle/caches/transforms-2/files-2.1/714722dd888488a29b21e4465bad7c63/core-1.9.0-alpha02/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/flash/behere_offline/build/flutter_nearby_connections/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/Users/flash/.gradle/caches/transforms-2/files-2.1/56144d06c8a41e33c5f1d637bfecd83a/jetified-play-services-base-17.3.0/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/flash/behere_offline/build/flutter_nearby_connections/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/Users/flash/.gradle/caches/transforms-2/files-2.1/56144d06c8a41e33c5f1d637bfecd83a/jetified-play-services-base-17.3.0/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/flash/behere_offline/build/flutter_nearby_connections/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/flash/.gradle/caches/transforms-2/files-2.1/714722dd888488a29b21e4465bad7c63/core-1.9.0-alpha02/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/flash/behere_offline/build/flutter_nearby_connections/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/flash/.gradle/caches/transforms-2/files-2.1/714722dd888488a29b21e4465bad7c63/core-1.9.0-alpha02/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/flash/behere_offline/build/flutter_nearby_connections/intermediates/res/merged/release/drawable-mdpi-v4/googleg_standard_color_18.png",
+        "source": "/Users/flash/.gradle/caches/transforms-2/files-2.1/56144d06c8a41e33c5f1d637bfecd83a/jetified-play-services-base-17.3.0/res/drawable-mdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/flash/behere_offline/build/flutter_nearby_connections/intermediates/res/merged/release/drawable-mdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/flash/.gradle/caches/transforms-2/files-2.1/714722dd888488a29b21e4465bad7c63/core-1.9.0-alpha02/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    }
+]
